@@ -1,0 +1,14 @@
+@charset "UTF-8";
+
+.con1 {height:1200px ;}
+nav {height:1000px ;}
+footer {height:100px ;}
+
+ul{
+   list-style:none;
+   padding-left:0px;
+   }
+   
+adress {font-size: 10pt;}
+.bgcolor {background-color: #6496FF; }
+

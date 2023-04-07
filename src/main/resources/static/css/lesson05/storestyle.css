@@ -1,0 +1,10 @@
+@charset "UTF-8";
+
+.tlogo {height:100px; }
+.wrap {width:700px; margin:auto; }
+.box {border:1px solid green;  }
+
+a {text-decoration:none; color:#000;}
+a:hover {text-decoration:none; color:#000;}
+
+.menu-box {background-color:#D2D3D3;}
